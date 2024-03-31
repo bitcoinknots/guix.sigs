@@ -8,7 +8,7 @@ f068dedb3b3756713eabc7ae996c85cf196df42db2220303cd0101ff27e4a4e3  bitcoin-26.1.k
 069e6cfe401499449ef725e05e781c975aeda2f89833e01517f2cc8597cd4de4  bitcoin-26.1.knots20240325-arm64-apple-darwin-unsigned.tar.gz
 6d925ff5770fe363181c0c027b56395ac0054a04a5e90460948c7166ad3d4fb6  bitcoin-26.1.knots20240325-arm64-apple-darwin-unsigned.zip
 d5454ec30f1bab42193ca14aa3426532d07d74d4d3b421b5662c7e61f4f58774  bitcoin-26.1.knots20240325-arm64-apple-darwin.tar.gz
-6c797d2eba1e8bbe822e519d72669dacfa024c5eb715fbf65f1d7a6dc0f37311  bitcoin-26.1.knots20240325-codesignatures-fbf8101d72a5.tar.gz
+d9bd9cbef14f1e9e504c61b628745be2c5c9c74874feef1d4a5122f85a2656c4  bitcoin-26.1.knots20240325-codesignatures-58483bad52e3.tar.gz
 3eaa5e3c39dada0a42cc5d8ae3737887a715e58f70fdee59714bda3446856889  bitcoin-26.1.knots20240325.tar.gz
 71bebb3faf6a96a67830c65cefea9531903eea008634de7c59967a71b76e351b  bitcoin-26.1.knots20240325-powerpc64-linux-gnu-debug.tar.gz
 7e69a6b77508fbe148b977b4ccd0dbe820356519caf14e7800482ce68c71abba  bitcoin-26.1.knots20240325-powerpc64-linux-gnu.tar.gz
